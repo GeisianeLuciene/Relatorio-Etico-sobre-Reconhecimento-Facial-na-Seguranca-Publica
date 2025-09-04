@@ -29,7 +29,7 @@ O relatório em PDF pode ser acessado neste link:
 - REDE DE OBSERVATÓRIOS DA SEGURANÇA. *Pele Alvo: a cor que a polícia apaga.* Rio de Janeiro: CESeC, 2021.  
 - LIMA, I. A. F. *Reconhecimento facial aumenta prisões equivocadas de negros no Brasil, apontam especialistas.* BBC News Brasil, 2022.  
 - UNITED NATIONS. *The right to privacy in the digital age.* Human Rights Office of the High Commissioner, 2021.
-- The Intercept Brasil. "Especialistas alertam contra pseudociência por trás do reconhecimento facial." Publicado em 4 de janeiro de 2019.
+- The Intercept Brasil. *Especialistas alertam contra pseudociência por trás do reconhecimento facial.* Publicado em 4 de janeiro de 2019.
 - Gryfo. *Tendências do Reconhecimento Facial em 2025.* Publicado em 10 de fevereiro de 2025.
 - Jornal da USP. *Avanços e desafios da implantação da tecnologia de reconhecimento facial.* Publicado em 20 de maio de 2024.
 
